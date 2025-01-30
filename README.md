@@ -1,4 +1,4 @@
-# Assighment-1
+# Assignment-1
 End-to-End Sentiment Analysis Pipeline
 
 Overview:
