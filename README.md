@@ -1,10 +1,6 @@
 # Assighment-1
 End-to-End Sentiment Analysis Pipeline
 
-# Assignment1
-Sentiment Analysis Flask API
-Sentiment Analysis Flask API
-
 Overview:
 This project implements an end-to-end sentiment analysis pipeline using Flask. It includes:
 - Data collection, storage, and preprocessing
